@@ -1,0 +1,19 @@
+{
+  "name": "nodetut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AddModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdoshi/nodetut.git"
+  },
+  "author": "Mohan <doshi1405@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdoshi/nodetut/issues"
+  },
+  "homepage": "https://github.com/gitdoshi/nodetut#readme"
+}
